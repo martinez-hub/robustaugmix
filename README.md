@@ -163,3 +163,18 @@ If you use this repository, please cite:
   url={https://ieeexplore.ieee.org/document/10195019/}
 }
 ```
+
+---
+
+## Related Work
+
+This repository builds upon **AugMix** (Hendrycks et al., ICLR 2020):
+
+```bibtex
+@inproceedings{hendrycks2020augmix,
+  title={AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty},
+  author={Hendrycks, Dan and Mu, Norman and Cubuk, Ekin D and Zoph, Barret and Gilmer, Justin and Lakshminarayanan, Balaji},
+  booktitle={International Conference on Learning Representations},
+  year={2020}
+}
+```
